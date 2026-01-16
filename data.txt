@@ -1,2 +1,3 @@
 First demo file
 created in github repository
+learning linux commands - mkdir,cd
